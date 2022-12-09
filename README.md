@@ -8,9 +8,9 @@ This is a starter boilerplate code to build reactjs applications with typescript
 
 I'm using these main technologies to build this project:
 
-[![ReactJS][react.js]][node-url]
-[![Typescript][typescript.js]][typescript-url]
-[![Sass][sass.js]][sass-url]
+[![ReactJS][react.js]][react-url]
+[![Typescript][typescript.ts]][typescript-url]
+[![Sass][sass]][sass-url]
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ Facundo Ledesma - faculedesma1993@gmail.com
 
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
-[scss.js]: https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass
-[scss-url]: https://sass-lang.com/
-[typescript.js]: https://img.shields.io/badge/typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue
+[sass]: https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass
+[sass-url]: https://sass-lang.com/
+[typescript.ts]: https://img.shields.io/badge/typescript-20232A?style=for-the-badge&logo=typescript&logoColor=blue
 [typescript-url]: https://www.typescriptlang.org/
